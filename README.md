@@ -1,8 +1,9 @@
 # embedded-project
 korean chess android application <br>
-using
-device driver
-timer device
-system call
-interrupt handler
-ndk
+using <br>
+device driver <br>
+timer device <br>
+system call <br>
+interrupt handler <br>
+ndk <br>
+tested device: achro i mx.6q
